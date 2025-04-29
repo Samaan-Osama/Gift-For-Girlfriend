@@ -1,0 +1,14 @@
+body {
+  background-color: #ffedfa;
+  padding-top: 150px;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  font-family: "Montserrat";
+  color: #424242;
+  font-weight: 550;
+}
+img {
+  height: 400px;
+  background-image: cover;
+}
